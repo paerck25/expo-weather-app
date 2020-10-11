@@ -5,7 +5,7 @@ const Loading = () => {
     return (
         <SafeAreaView style={styles.root}>
             <View style={styles.container}>
-                <Text style={styles.textStyle}>날씨 정보를 가져오는 중입니다...</Text>
+                <Text style={styles.textStyle}>Now Loading...</Text>
             </View>
         </SafeAreaView>
     )
